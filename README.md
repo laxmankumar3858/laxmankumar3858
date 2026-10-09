@@ -1,7 +1,12 @@
-## Laxman Kumar - Full Stack Developer | Android & iOS App Developer
+<div align="center">
 
-## Ahmedabad, India
-## 8852880340, laxmansuthar3858@gmail.com
+Laxman Kumar
+
+Full Stack Developer | Android & iOS App Developer
+
+Ahmedabad, India · 8852880340 · laxmansuthar3858@gmail.com
+
+</div>
 
 ## About Me
   Full Stack Developer with 2 years of experience building modern web and mobile applications using React, React Native, Next.js, Node.js, and Express.js.      Experienced in developing scalable applications, REST APIs, secure authentication, reusable UI components, and cross-platform mobile solutions.
