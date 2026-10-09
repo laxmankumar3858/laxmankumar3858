@@ -1,7 +1,7 @@
-## Laxman Kumar - Full Stack Developer | Android & iOS App Developer
+# Laxman Kumar - Full Stack Developer | Android & iOS App Developer
 
-# Gandhinagar, Gujarat, India
-# 8852880340, laxmansuthar3858@gmail.com
+## Gandhinagar, Gujarat, India
+## 8852880340, laxmansuthar3858@gmail.com
 
 About Me
 
